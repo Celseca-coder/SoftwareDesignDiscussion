@@ -1,0 +1,10 @@
+{
+  "openFiles": [
+    "file2.txt"
+  ],
+  "activeFile": "file2.txt",
+  "modifiedFiles": [],
+  "logEnabledFiles": [
+    "test.txt"
+  ]
+}
