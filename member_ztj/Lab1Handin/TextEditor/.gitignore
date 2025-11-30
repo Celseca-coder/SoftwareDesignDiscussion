@@ -1,0 +1,39 @@
+# Maven
+target/
+pom.xml.tag
+pom.xml.releaseBackup
+pom.xml.versionsBackup
+pom.xml.next
+release.properties
+dependency-reduced-pom.xml
+buildNumber.properties
+.mvn/timing.properties
+
+# IDE
+.idea/
+*.iml
+*.iws
+*.ipr
+.vscode/
+.settings/
+.classpath
+.project
+
+# 编译输出
+*.class
+*.jar
+*.war
+*.ear
+*.nar
+*.log
+
+# 编辑器状态文件
+.editor_workspace
+editor.log
+
+# 操作系统
+.DS_Store
+Thumbs.db
+
+# 测试
+test-output/
