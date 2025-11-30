@@ -1,0 +1,18 @@
+{
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "type": "java",
+            "name": "运行文本编辑器",
+            "request": "launch",
+            "mainClass": "com.editor.Main"
+        },
+        {
+            "type": "java",
+            "name": "调试文本编辑器",
+            "request": "launch",
+            "mainClass": "com.editor.Main",
+            "stopOnEntry": false
+        }
+    ]
+}
