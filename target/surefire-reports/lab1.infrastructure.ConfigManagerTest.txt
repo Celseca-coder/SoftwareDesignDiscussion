@@ -1,4 +1,0 @@
--------------------------------------------------------------------------------
-Test set: lab1.infrastructure.ConfigManagerTest
--------------------------------------------------------------------------------
-Tests run: 1, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 0.110 s -- in lab1.infrastructure.ConfigManagerTest

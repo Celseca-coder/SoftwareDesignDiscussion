@@ -1,6 +1,0 @@
-lab1\application\LoggingServiceTest.class
-lab1\application\WorkspaceTest.class
-lab1\domain\editor\TextEditorTest.class
-lab1\infrastructure\FileSystemTest.class
-lab1\domain\display\DecoratorTest.class
-lab1\infrastructure\ConfigManagerTest.class
